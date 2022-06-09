@@ -1,0 +1,4 @@
+beautifulsoup4==4.11.1
+hikari==2.0.0.dev108
+requests==2.27.1
+uvloop==0.16.0
